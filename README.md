@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 * physics in __c++__
 
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/<top_langs>/?username=<aniket-deshpande>&theme=<THEME_NAME>" />
