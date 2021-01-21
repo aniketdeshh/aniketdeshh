@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 * physics in __c++__
 
 
-[![Anikets's github stats](https://github-readme-stats.vercel.app/api?username=aniket-deshpande)](https://github.com/aniket-deshpande/github-readme-stats)
+![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=aniket-deshpande&show_icons=true&theme=radical)
