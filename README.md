@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### currently working on projects with open-source astronomy libraries 
+#### currently working:
+* numpy, pandas, matplotlib
+* sunpy, astropy
+* physics in __c++__
+
 
