@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 * physics in __c++__
 
 
-![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=aniket-deshpande&show_icons=true&theme=radical)
+![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=aniket-deshpande&show_icons=true&theme=gruvbox)
