@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 
 
 ![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=aniket-deshpande&show_icons=true&theme=gruvbox)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-deshpande)](https://github.com/aniket-deshpande/github-readme-stats)
