@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 #### currently working on:
 * numpy, pandas, matplotlib
 * sunpy, astropy
-* physics in __c++__
+* physics engines in __c++__
 
 
 ![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=aniket-deshpande&show_icons=true&theme=dracula)
