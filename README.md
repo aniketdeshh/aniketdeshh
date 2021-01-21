@@ -1,5 +1,3 @@
-![alt text](Aniket-DEshpande.png)
-
 ### Hi there 👋
 
 <!--
