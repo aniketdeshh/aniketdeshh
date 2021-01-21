@@ -1,4 +1,4 @@
-![Alt text](file:///home/aniket/Downloads/Aniket-DEshpande.png?raw=true "banner")
+![alt text](file:///home/aniket/Downloads/Aniket-DEshpande.png?raw=true "banner")
 
 ### Hi there 👋
 
