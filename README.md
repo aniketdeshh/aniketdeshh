@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 * numpy, pandas, matplotlib
 * sunpy, astropy
 * physics engines in __c++__
-* directories cleaner for linux
 
 
 ![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=aniket-deshpande&show_icons=true&theme=dracula)
