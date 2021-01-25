@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 #### currently working on:
 * numpy, pandas, matplotlib
-* sunpy, astropy
 * physics engines in __c++__
+* learning julia syntax
 
 
 ![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=aniket-deshpande&show_icons=true&theme=dracula)
