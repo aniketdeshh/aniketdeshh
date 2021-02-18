@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 * learning julia syntax
 
 
-![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=aniket-deshpande&show_icons=true&theme=gruvbox)
+![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=aniket-deshpande&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-deshpande&theme=gruvbox)](https://github.com/aniket-deshpande/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-deshpande&theme=dracula)](https://github.com/aniket-deshpande/github-readme-stats)
