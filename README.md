@@ -4,8 +4,7 @@
 
 #### currently working on:
 * numpy, matplotlib
-* physics engines in __c++__
-* learning julia syntax
+* physics engines in __python__ and __javascript__
 * AP Physics 2 (Fluid mechanics, thermodynamics)
 
 ![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=aniket-deshpande&show_icons=true&theme=dracula)
