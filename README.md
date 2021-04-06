@@ -6,7 +6,7 @@
 
 ##### learning the following topics:
 * numpy, matplotlib
-* physics engines in __python__ and __javascript__
+* physics engines in __python__ and __javascript__ (matter.js, Box2D, pymunk)
 * AP Physics 2 (Fluid mechanics, thermodynamics)
 
 -------- Finding Internships ---------
