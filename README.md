@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World 👋
 
 Education: 
 * South Brunswick High School, NJ (2019 - 2023)
