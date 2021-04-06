@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-## currently looking for physics research and machine learning internships
+## Currently looking for physics research and machine learning internships
 
-#### currently working on:
+#### I'm currently working on:
 
-##### learning the following topics:
+##### I'm learning the following topics:
 * numpy, matplotlib
 * physics engines in __python__ and __javascript__ (matter.js, Box2D, pymunk)
 * AP Physics 2 (Fluid mechanics, thermodynamics)
