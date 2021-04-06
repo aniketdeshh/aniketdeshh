@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Education: South Brunswick High School, NJ (2019 - 2023)
+
+
 ## Currently looking for physics research and machine learning internships
 
 ### I'm currently working on:
