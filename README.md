@@ -10,7 +10,7 @@ Education:
 
 #### I'm learning the following topics:
 * numpy, matplotlib
-* physics engines in __python__ and __javascript__ (matter.js, Box2D, pymunk)
+* physics engines in __javascript__ (matter.js, p5js for rendering) **WIP**
 * AP Physics 2 (Fluid mechanics, thermodynamics)
 
 #### I'm finding internships
