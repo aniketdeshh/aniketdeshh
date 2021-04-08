@@ -8,12 +8,12 @@ Education:
 
 ### I'm currently working on:
 
-#### I'm learning the following topics:
+#### learning the following topics:
 * numpy, matplotlib
 * physics engines in __javascript__ (matter.js, p5js for rendering) **WIP**
 * AP Physics 2 (Fluid mechanics, thermodynamics)
 
-#### I'm finding internships:
+#### finding internships:
 * reaching out to computational astrophysicists
 * educating myself in Machine Learning and it's applications
 * studying the integration of computer science in physics
