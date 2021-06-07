@@ -9,7 +9,7 @@ Education:
 
 ### I'm currently working on:
 
-#### learning the following topics:
+#### these projects:
 * a physics engine in Java
 * rendering shapes in Java throught Swing and LWJGL
 
