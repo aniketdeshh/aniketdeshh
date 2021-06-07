@@ -2,6 +2,7 @@
 
 Education: 
 * South Brunswick High School, NJ (2019 - 2023)
+* Middlesex County College: Calculus I and Calculus II (2021)
 
 
 ## Currently looking for physics research internships
