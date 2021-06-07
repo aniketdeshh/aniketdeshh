@@ -9,9 +9,8 @@ Education:
 ### I'm currently working on:
 
 #### learning the following topics:
-* numpy, matplotlib
-* physics engines in __javascript__ (matter.js, p5js for rendering) **WIP**
-* University Physics I-III (Mechanics, E&M, Modern Physics)
+* a physics engine in Java
+* rendering shapes in Java throught Swing and LWJGL
 
 #### finding internships:
 * reaching out to computational physicists
