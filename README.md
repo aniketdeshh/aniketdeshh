@@ -6,11 +6,11 @@
 
 ### I'm currently working on:
 
-#### these projects:
+These projects:
 * a 2D game engine in Java 🕹️ 
 * an open source Undergraduate Physics Degree 🎓 
 
-#### self-studying classes:
+Self-studying classes:
 * multivariable calculus & linear algebra 🧮 
 * ordinary differential equations 🎢
 * relativity, gravitation, and cosmology 🔭
