@@ -8,6 +8,7 @@
 
 These projects:
 * a 2D game engine in Java 🕹️ 
+* Freelance programming 💻
 * an open source Undergraduate Physics Degree 🎓 
 
 Self-studying classes:
