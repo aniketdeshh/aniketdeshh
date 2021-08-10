@@ -7,7 +7,7 @@
 ### I'm currently working on:
 
 These projects:
-* a desktop reminder app ✅ 
+* hackathon projects 🥇
 * freelance programming 💻
 * an open source undergraduate physics degree 🎓 
 
