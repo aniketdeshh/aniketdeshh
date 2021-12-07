@@ -9,7 +9,6 @@
 These projects:
 * hackathon projects 🥇
 * freelance programming 💻
-* an open source undergraduate physics degree 🎓 
 
 Self-studying classes:
 * multivariable calculus & linear algebra 🧮 
