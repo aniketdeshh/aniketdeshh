@@ -7,7 +7,7 @@
 ### I'm currently working on:
 
 These projects:
-* hackathon projects 🥇
+* a game/physics engine in c++ and openGL
 * freelance programming 💻
 
 Self-studying classes:
