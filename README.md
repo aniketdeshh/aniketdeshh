@@ -7,7 +7,7 @@
 ### I'm currently working on:
 
 These projects:
-* a game/physics engine in c++ and openGL
+* a game/physics engine in javascript and WebGL
 * freelance programming 💻
 
 Self-studying classes:
