@@ -2,7 +2,7 @@
 
 🏫 Education: 
 * South Brunswick High School, NJ (2019 - 2023)
-* Middlesex County College: Calculus I and Calculus II (2021), Economics I and Economics II (2022)
+* Middlesex County College: Calculus I and Calculus II (2021)
 
 ### I'm currently working on:
 
