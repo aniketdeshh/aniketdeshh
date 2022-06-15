@@ -10,9 +10,8 @@ These projects:
 * a math library written in python
 * freelance programming 💻
 
-Self-studying classes:
-* multivariable calculus & linear algebra 🧮 
-* ordinary differential equations 🎢
-* relativity, gravitation, and cosmology 🔭
+Self-studying:
+* ODEs and PDEs 🧮 
+* classical mechanics 🎢
 
 
