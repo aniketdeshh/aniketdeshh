@@ -8,7 +8,7 @@
 
 These projects:
 * a math library written in python
-* freelance programming 💻
+* a physics engine written in c++ 💻
 
 Self-studying:
 * ODEs and PDEs 🧮 
