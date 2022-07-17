@@ -8,7 +8,7 @@
 
 These projects:
 * a math library written in python
-* a physics engine written in c++ 💻
+* a physics engine written in python 💻
 
 Self-studying:
 * ODEs and PDEs 🧮 
