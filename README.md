@@ -8,7 +8,7 @@
 
 These projects:
 * a math library written in python
-* a physics engine written in python 💻
+* a game engine written in Java and LWJGL
 
 Self-studying:
 * ODEs and PDEs 🧮 
