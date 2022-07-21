@@ -7,7 +7,7 @@
 ### I'm currently working on:
 
 These projects:
-* a math library written in python
+* a math library written in Java
 * a game engine written in Java and LWJGL
 
 Self-studying:
